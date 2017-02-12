@@ -11,4 +11,4 @@ env:
     - ARCH=i686
 
 script:
-    - make test -C real_tests
+    - make test -C real-tests
